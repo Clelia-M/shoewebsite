@@ -14,5 +14,8 @@ This one in particular is also completely responsive so I've learned how to use 
 [Traversy Media](https://www.youtube.com/watch?v=X1dz0xRbSJc) - Build a Modern Landing Page Website | HTML & CSS
 
 ## Final result
-![Shoe Website](https://github.com/Clelia-M/starbucksclone/blob/ba4c408de9fcf072fb8d1ac032bda7cc90ced73b/Starbucks%20Clone%20TM_Final%20result.png)
+![Shoe Website](https://github.com/Clelia-M/shoewebsite/blob/4d568f8de1c5c1568a64855483d7311b10e3fa8c/thumb/Shoe%20website%20Thumb.png)
 
+## Details
+![Shoe Website Details Products price](https://github.com/Clelia-M/shoewebsite/blob/4d568f8de1c5c1568a64855483d7311b10e3fa8c/thumb/Shoe%20website%20details.png)
+![Shoe Website Details Cards](https://github.com/Clelia-M/shoewebsite/blob/4d568f8de1c5c1568a64855483d7311b10e3fa8c/thumb/Shoe%20website%20cards.png)
